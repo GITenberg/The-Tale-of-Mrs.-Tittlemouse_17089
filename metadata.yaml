@@ -1,0 +1,69 @@
+_repo: The-Tale-of-Mrs.-Tittlemouse_17089
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 17089-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Potter, Beatrix
+    aliases:
+    - Heelis, Beatrix
+    - Potter, Helen Beatrix
+    birthdate: 1866
+    deathdate: 1943
+    gutenberg_agent_id: '292'
+    url: http://www.gutenberg.org/2009/agents/292
+    wikipedia: http://en.wikipedia.org/wiki/Beatrix_Potter
+description: "The Tale of Mrs. Tittlemouse is a children's book written and illustrated\
+  \ by Beatrix Potter, and published by Frederick Warne & Co. in 1910. The tale is\
+  \ about housekeeping and insect pests in the home, and reflects Potter's own sense\
+  \ of tidiness and her abhorrence of insect infestations. The character of Mrs. Tittlemouse\
+  \ debuted in 1909 in a small but crucial role in The Tale of The Flopsy Bunnies,\
+  \ and Potter decided to give her a tale of her own the following year. Her meticulous\
+  \ illustrations of the insects may have been drawn for their own sake, or to provoke\
+  \ horror and disgust in her juvenile readers. 25,000 copies of the tale were initially\
+  \ released in July 1910 and another 15,000 between November 1910 and November 1911\
+  \ in Potter's typical small book format.\nMrs. Tittlemouse is a woodmouse who lives\
+  \ in a \"funny house\" of long passages and storerooms beneath a hedge. Her efforts\
+  \ to keep her dwelling tidy are thwarted by insect and arachnid intruders who create\
+  \ all sorts of messes about the place: a lost beetle leaves dirty footprints in\
+  \ a passage and a spider inquiring after Miss Muffet leaves bits of cobweb here\
+  \ and there. Her toad neighbour Mr. Jackson lets himself into her parlour, stays\
+  \ for dinner, and searches her storerooms for honey but leaves a mess behind. Poor\
+  \ Mrs. Tittlemouse wonders if her home will ever be tidy again, but after a good\
+  \ night's sleep, she gives her house a fortnight's spring cleaning, polishes her\
+  \ little tin spoons, and holds a party for her friends.\nPotter's life had become\
+  \ complicated with the demands of ageing parents and the business of operating a\
+  \ farm before the composition of Mrs. Tittlemouse, and, as a consequence, her literary\
+  \ and artistic productivity began a decline following the tale's publication. She\
+  \ continued to publish sporadically but much of her work was drawn from decades-old\
+  \ concepts and illustrations. Mrs. Tittlemouse marks the end of her two books a\
+  \ year output for Warnes. Scholars find the book's depictions of the insects its\
+  \ great attraction. One critic finds a \"nightmarish quality\" in the tale reflected\
+  \ in Mrs. Tittlemouse's almost endless war waged against insect pests. Characters\
+  \ from the tale have been modelled as porcelain figurines by Beswick Pottery beginning\
+  \ in 1948, and the mouse's image appeared on a Huntley & Palmer biscuit tin in 1955.\
+  \ Other merchandise has been marketed depicting Mrs. Tittlemouse and her friends.\
+  \ Mrs. Tittlemouse was a character in a 1971 ballet film and her tale was adapted\
+  \ to an animated television series in 1992.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2005-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17089'
+  wikidata: Q3275331
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mice -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Tale of Mrs. Tittlemouse
+url: http://www.gutenberg.org/ebooks/17089
+wikipedia:
+- https://fr.wikipedia.org/wiki/Madame_Trotte-Menu
+- https://en.wikisource.org/wiki/The_Tale_of_Mrs._Tittlemouse
+- https://en.wikipedia.org/wiki/The_Tale_of_Mrs._Tittlemouse
+- https://commons.wikimedia.org/wiki/Category:The_Tale_of_Mrs._Tittlemouse
+- https://id.wikipedia.org/wiki/The_Tale_of_Mrs._Tittlemouse
