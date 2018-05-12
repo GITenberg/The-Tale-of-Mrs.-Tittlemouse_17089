@@ -46,6 +46,8 @@ description: "The Tale of Mrs. Tittlemouse is a children's book written and illu
   \ Other merchandise has been marketed depicting Mrs. Tittlemouse and her friends.\
   \ Mrs. Tittlemouse was a character in a 1971 ballet film and her tale was adapted\
   \ to an animated television series in 1992.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17089#The-Tale-of-Mrs.-Tittlemouse
 gutenberg_bookshelf: Children's Picture Books
 gutenberg_issued: '2005-11-18'
 gutenberg_type: Text
